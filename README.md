@@ -3,7 +3,8 @@
 I'm a software engineer, and I like building stuff.
 
 Feel free to check out my repos if you are interested in:
-- :computer: Retro computing: [Yet Another CHIP-8 Emulator](https://github.com/nhtranngoc/yace)
+- :computer: Retro computing: 
+  - [Yet Another CHIP-8 Emulator](https://github.com/nhtranngoc/yace)
 - :electric_plug: Electrical engineering: 
   - [DinoPill, an attempt at solving Google Chrome's Dino run](https://github.com/nhtranngoc/dinopill)
   - [Charlieplex, a Mareep-shaped LED blinky](https://github.com/nhtranngoc/charlieplex)
